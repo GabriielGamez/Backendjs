@@ -2,8 +2,10 @@
   "name": "backendjs",
   "version": "1.0.0",
   "description": "",
-  "main": "",
+  "main": "./src/app.js",
   "scripts": {
+    "papas": "node run ./src/app.js",
+    "dev" : "nodemon run ./src/app/js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
