@@ -1,0 +1,6 @@
+### Carpetas ### 
+node_modules/
+ ### archivos ###
+ .env
+ ### archivos temporales ###
+.DS_Store
